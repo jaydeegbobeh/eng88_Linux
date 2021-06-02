@@ -53,8 +53,6 @@
 
 - **top** monitors processes and system resource usage
 
--
-
 - **tree** displays the directory structure of a path (parent directory, current directory and sub directory)
 
 - **top**

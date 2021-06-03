@@ -1,6 +1,6 @@
 # Linux
 
-Linux is a family open source Unix-like OS - source code is publically accessible that anyone can read, modify and distribute the code.
+Linux is a of family open source Unix-like OS - source code is publically accessible that anyone can read, modify and distribute the code.
 
 ## Architecture 
 

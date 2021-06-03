@@ -27,7 +27,7 @@ There are many distros of Linux e.g:
 - Fedora: mainly used for servers and cloud computing.
 - Ubuntu
 
-##Filesystems
+## Filesystems
 
 - The Linux filesytem unifies all physical hard drives and partitions into a single directory structure.
 - The entire Linux directory structure starts at the top /root directory.
